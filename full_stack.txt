@@ -1,0 +1,19 @@
+WHO IS A FULL STACK DEVELOPER:A full-stack developer is a programmer who works within software development and is knowledgeable in both the front end and back end of an application.They work to create a seamless user experience through their diverse stkill set.
+
+LIST OF TOOLS USED BY SOFTWARE DEVELOPER:
+1.visual Studio Code
+2.Codepen
+3.TypeScripts
+4.WebStorm
+5.GitHub
+6.Slack.
+7.Electron
+
+LANGUAGE USED BY FULL STACK DEVELOPER
+1.Html & Css
+2.JavaScript
+3.Python
+4.MEAN
+5.java
+6.Php
+7.golan
